@@ -1,0 +1,28 @@
+@font-face {
+    font-family: teddy;
+    src: url("./font/teddy-bear.ttf");
+}
+
+body {
+    background-color:aqua;
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+    font-family: 'teddy', sans-serif;
+}
+
+h2 {
+color: yellow;
+}
+
+a {
+    color:red;
+}
+a:hover {
+    font-size: 2rem;
+    
+}
+.adress {
+    font-size: 1.5rem;
+}
